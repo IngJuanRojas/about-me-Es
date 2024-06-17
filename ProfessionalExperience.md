@@ -104,11 +104,15 @@ Esta sección proporciona un resumen detallado de mi experiencia laboral, destac
 - Eficaz mantenimiento y operación de equipos SmartMatic en entornos exigentes.
 
 
-## **Formación Académica**
+# **Formación Académica**
 
 **Ingeniero en Informática**  
 *Universidad Rómulo Gallegos, Venezuela*  
 *2010*
+
+**Master of Science in Management**  
+*Caribbean International University*  
+*2012 - 2015*
 
 **Certificaciones en Data Analytics & Digital Marketing**  
 *IAB Spain, España*  
