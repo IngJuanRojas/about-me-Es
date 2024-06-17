@@ -18,6 +18,20 @@
 - **Adaptabilidad**: Capacidad para ajustarse rápidamente a nuevos entornos, tecnologías y metodologías, garantizando la entrega eficiente y eficaz de soluciones.
 - **Planificación y Organización**: Habilidad para planificar, organizar y priorizar tareas, manteniendo la calidad y cumpliendo con los plazos establecidos.
 
+## **Formación Académica**
+
+**Ingeniero en Informática**  
+*Universidad Rómulo Gallegos, Venezuela*  
+*2010*
+
+**Web Developer**  
+*IBM, Venezuela*  
+*2012*
+
+**Certificaciones en Data Analytics & Digital Marketing**  
+*IAB Spain, España*  
+*2015*
+
 ## **Logros**
 
 ### **Gestión de Productos**
