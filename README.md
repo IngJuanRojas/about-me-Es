@@ -22,3 +22,9 @@ Aspirante a Product Owner o Product Manager orientado a la web, enfocado en apli
 >Ver [Habilidades y Logros](https://github.com/IngJuanRojas/about-me-Es/blob/main/Capabilities.md)
 
 Mi objetivo es contribuir a la creación de productos digitales excepcionales, utilizando toda mi experiencia en el desarrollo web, mi orientacion cliente y mi visión estratégica para guiar equipos y proyectos hacia el éxito.
+
+## **Contacto**
+
+- **Teléfono**: +33 7 69 93 45 79
+- **Email**: [juanrojas57@gmail.com](mailto:juanrojas57@gmail.com)
+- **LinkedIn**: [linkedin.com/in/juanrojas](https://www.linkedin.com/in/juanrojas)
