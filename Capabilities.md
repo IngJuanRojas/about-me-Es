@@ -8,6 +8,45 @@
 - **DevOps:** Docker, Apache, NGINX
 - **SO:** Linex, Windows
 
+### **MindMap de Conocimientos Técnicos**
+
+```mermaid
+mindmap
+  root((Conocimientos Técnicos))
+    Desarrollo Web
+      PHP
+      Frameworks Legacy
+      Symfony
+      Laravel
+      React/Vue
+      API-Restful
+      Docker
+    Herramientas de Gestión
+      Jira
+      Trello
+      Confluence
+      Redmine
+      OpenProject
+      GitLab
+    Bases de Datos
+      MySQL
+      PostgreSQL
+      OracleDB
+    Metodologías
+      Scrum
+      Agile
+    Versioning
+      GitLab
+      Github
+    DevOps
+      Docker
+      Apache
+      NGINX
+    SO
+      Linux
+      Windows
+```
+
 ## **Habilidades Blandas**
 - **Liderazgo y Gestión de Equipos**: Habilidad para liderar y motivar equipos, delegar tareas efectivamente y gestionar recursos para alcanzar objetivos en tiempo y forma.
 - **Comunicación Efectiva**: Capacidad para traducir necesidades técnicas a términos comprensibles para stakeholders y usuarios, asegurando una clara comprensión de los objetivos y requisitos.
