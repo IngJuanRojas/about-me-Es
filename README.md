@@ -14,6 +14,8 @@ Ingeniero en Informática con más de 13 años de experiencia en desarrollo web 
 - **Innovación en Producto:** Lideré la adopción de nuevas tecnologías y metodologías, incrementando la adaptabilidad y escalabilidad del producto, lo que permitió una mejor respuesta a las demandas del mercado.
 - **Coordinación de Equipos:** Gestioné con éxito equipos de desarrollo en entornos multiculturales, logrando una alta cohesión y motivación, y superando los objetivos de entrega de producto de manera constante.
 
+Ver [Experiencia Profesional](https://github.com/IngJuanRojas/about-me-Es/blob/main/ProfessionalExperience.md)
+
 #### **Objetivo Profesional:**
 Aspirante a Product Owner o Product Manager orientado a la web, enfocado en aplicar mi profundo conocimiento técnico y habilidades en gestión de proyectos para liderar el desarrollo de productos web que no solo cumplen con las necesidades actuales del mercado, sino que también anticipan futuras tendencias y oportunidades de innovación. Estoy comprometido a utilizar mi experiencia en desarrollo para asegurar que los productos sean tecnológicamente sólidos, escalables y alineados con los objetivos estratégicos del negocio.
 
