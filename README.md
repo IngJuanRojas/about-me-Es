@@ -1,4 +1,4 @@
-### **Product Owner con Sólida Base Técnica y Experiencia en Desarrollo Web**
+### **Ingeniero en Informática con Sólida Base Técnica y Experiencia en Desarrollo Web**
 
 Ingeniero en Informática con más de 13 años de experiencia en desarrollo web y un historial comprobado de liderazgo técnico como Lead PHP Developer. Mi trayectoria incluye la gestión de equipos y la entrega de soluciones tecnológicas avanzadas que han optimizado la eficiencia operativa y alineado los desarrollos con las necesidades estratégicas del negocio. Busco aportar esta combinación única de habilidades técnicas y capacidad de gestión de productos a un rol de Product Owner, para guiar la visión y el desarrollo de productos innovadores.
 
