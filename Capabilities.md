@@ -1,4 +1,4 @@
->[Voler al inicio](https://github.com/IngJuanRojas/about-me-Es/tree/main)
+>[Volver al inicio](https://github.com/IngJuanRojas/about-me-Es/tree/main)
 ## **Conocimientos Técnicos:**
 - **Desarrollo Web:** PHP, Frameworks Legacy, Symfony, Laravel, React/Vue, API-Restful, Docker
 - **Herramientas de Gestión:** Jira, Trello, Confluence, Redmine, OpenProject, GitLab
